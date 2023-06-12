@@ -8,7 +8,7 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.Test.Logintest"/>
+      <class name="com.test.Logintest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
